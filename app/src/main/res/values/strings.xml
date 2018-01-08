@@ -59,7 +59,7 @@
 
     <!--  New Strings -->
     <string name="background_music" translatable="false">Background music ON/OFF</string>
-    <string name="fight_sounds" translatable="false">Fight souns ON/OFF</string>
+    <string name="fight_sounds" translatable="false">Fight sounds ON/OFF</string>
 
 </resources>
 
